@@ -1,0 +1,15 @@
+C:\Users\ад\Desktop\02_11 home work 9 task 68\bin\Debug\net6.0\02_11 home work 9 task 68.exe
+C:\Users\ад\Desktop\02_11 home work 9 task 68\bin\Debug\net6.0\02_11 home work 9 task 68.deps.json
+C:\Users\ад\Desktop\02_11 home work 9 task 68\bin\Debug\net6.0\02_11 home work 9 task 68.runtimeconfig.json
+C:\Users\ад\Desktop\02_11 home work 9 task 68\bin\Debug\net6.0\02_11 home work 9 task 68.dll
+C:\Users\ад\Desktop\02_11 home work 9 task 68\bin\Debug\net6.0\02_11 home work 9 task 68.pdb
+C:\Users\ад\Desktop\02_11 home work 9 task 68\obj\Debug\net6.0\02_11 home work 9 task 68.csproj.AssemblyReference.cache
+C:\Users\ад\Desktop\02_11 home work 9 task 68\obj\Debug\net6.0\02_11 home work 9 task 68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ад\Desktop\02_11 home work 9 task 68\obj\Debug\net6.0\02_11 home work 9 task 68.AssemblyInfoInputs.cache
+C:\Users\ад\Desktop\02_11 home work 9 task 68\obj\Debug\net6.0\02_11 home work 9 task 68.AssemblyInfo.cs
+C:\Users\ад\Desktop\02_11 home work 9 task 68\obj\Debug\net6.0\02_11 home work 9 task 68.csproj.CoreCompileInputs.cache
+C:\Users\ад\Desktop\02_11 home work 9 task 68\obj\Debug\net6.0\02_11 home work 9 task 68.dll
+C:\Users\ад\Desktop\02_11 home work 9 task 68\obj\Debug\net6.0\refint\02_11 home work 9 task 68.dll
+C:\Users\ад\Desktop\02_11 home work 9 task 68\obj\Debug\net6.0\02_11 home work 9 task 68.pdb
+C:\Users\ад\Desktop\02_11 home work 9 task 68\obj\Debug\net6.0\02_11 home work 9 task 68.genruntimeconfig.cache
+C:\Users\ад\Desktop\02_11 home work 9 task 68\obj\Debug\net6.0\ref\02_11 home work 9 task 68.dll
